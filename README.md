@@ -1,6 +1,8 @@
 ## Hi Everyone,
 Me chamo Marcelo Silva e sou um novo intusiasta e aspirante na area da tecnologia!
 
+Este projeto é uma automação criada do zero com python,desenvolvido com a ajuda do pessoal da HASTAG PROGRAMAÇÃO e melhorado conforme os meus avanços na tecnologia.
+
 ## Conecte - se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-silva-99414a222/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:marceloyan231@gmail.com)
